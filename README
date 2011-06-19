@@ -1,0 +1,9 @@
+This was a quick hack to see if I could get it to work so I could import my wordpress blog posts into my website blog a while back.
+
+Included is a windows 32 bit executable. This may compile on Linux, but I was just on a windows comp at the time.
+
+I am now attempting to port this over to c++: https://github.com/jfrobbins/wordpress-xml-to-html-converter
+
+
+jon
+jrobb.org
